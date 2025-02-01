@@ -6,7 +6,8 @@
     color: #fff;
     border-radius: 0.25rem;
     transition: 0.5s;
-    margin: 0 1rem
+    margin: 0 1rem;
+    border: 1px solid #1a1a1a
 }
 
 .button:hover {
@@ -15,5 +16,6 @@
 }
 
 .passwordCopied {
+    border: 1px solid aqua;
     color: aqua;
 }

@@ -19,7 +19,7 @@ function App() {
     
     function copyToClipBoard(){
         navigator.clipboard.writeText(passwordValue)
-        setCopied("Copied!")
+        setCopied("Copiado!")
         setClasse("passwordCopied")
       }
     

@@ -1,0 +1,9 @@
+.title {
+    display: grid;
+    place-content: center;
+    
+}
+.title > h1 {
+    color: #fff;
+    font-size: 3rem;
+}
